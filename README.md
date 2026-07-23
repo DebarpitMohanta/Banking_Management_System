@@ -145,7 +145,7 @@ bash run.sh
 
 ---
 
-# 📚 Cor# 📚 Core Java Concepts Used
+# 📚 Core Java Concepts Used
 
 - Object-Oriented Programming (OOP)
 - Classes & Objects
