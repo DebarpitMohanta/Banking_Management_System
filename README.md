@@ -77,8 +77,6 @@ BankingManagementSystem
 │   └── transactions.txt
 │
 ├── README.md
-├── compile.sh
-└── run.sh
 ```
 
 ---
@@ -147,53 +145,23 @@ bash run.sh
 
 ---
 
-# 📸 Screenshots
+# 📚 Cor# 📚 Core Java Concepts Used
 
-Add screenshots here.
-
-```
-screenshots/
-│
-├── menu.png
-├── create-account.png
-├── deposit.png
-├── account-details.png
-├── transaction-history.png
-```
-
-Example:
-
-```md
-![Main Menu](screenshots/menu.png)
-
-![Create Account](screenshots/create-account.png)
-```
-
----
-
-# 📚 Core Java Concepts Demonstrated
-
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
+- Classes & Objects
 - Encapsulation
-- Abstraction
 - Inheritance
 - Polymorphism
-- Method Overloading
-- Method Overriding
-- Interfaces
 - Abstract Classes
-- Collections Framework
-- HashMap
-- ArrayList
+- Interfaces
+- Collections Framework (HashMap, ArrayList)
 - Exception Handling
 - Custom Exceptions
 - File Handling
-- Singleton Design Pattern
 - Enums
-- Comparable Interface
 - Java Time API
 - Scanner
-- Layered Architecture
+- Packages
 
 ---
 
