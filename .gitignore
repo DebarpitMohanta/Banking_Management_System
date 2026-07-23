@@ -1,0 +1,13 @@
+# Compiled Java files
+bin/
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
